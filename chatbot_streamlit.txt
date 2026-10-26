@@ -1,0 +1,2 @@
+streamlit run chatbot_streamlit_ollama.py - to run the code not by directly running the file with python 
+streamlit skills- 
